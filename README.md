@@ -1,7 +1,6 @@
 # Hi everyone :wave:
 
-I'm a 24 years old software developer from Venezuela and currently living in Argentina, Computer Enviroment Enthusiast.
-I mainly code in Java, Javascript and C.
+I'm a Software developer currently living in Argentina, Computer Enviroment Enthusiast.
 
 ## Quick overview
 * GitHub stats:  
